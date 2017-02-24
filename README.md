@@ -7,6 +7,8 @@ The theme was based on simplelight and what I did was eliminate the synopsis and
 
 System list suport: https://github.com/recalbox/recalbox-themes#systems-list-to-support-
 
+For those who do not want to see the capcom logo on fba_libretro, just change the bg2.jpg and logo2.svg by bg.jpg and logo.svg more information in the readme.txt file inside the folder fba_libretro.
+
 Video Preview
 
 https://youtu.be/AAy-b7_hC74
